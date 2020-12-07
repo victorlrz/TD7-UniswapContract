@@ -19,7 +19,7 @@
  */
 // When it's lock migrate --reset
 const HDWalletProvider = require('@truffle/hdwallet-provider');
-const mnemonic = "earn oyster jewel turn note absurd unusual melody question surge harsh yard";
+const mnemonic = "";
 
 // const infuraKey = "fj4jll3k.....";
 //
